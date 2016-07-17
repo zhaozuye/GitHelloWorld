@@ -93,5 +93,6 @@ void CGitHelloWorldDlg::OnBnClickedOk()
 {
 	AfxMessageBox(L"123");
 	AfxMessageBox(L"456");
+	AfxMessageBox(L"789");
 	CDialogEx::OnOK();
 }
